@@ -1,0 +1,26 @@
+html,body{
+    margin: 0;
+}
+header{
+    text-align: center;
+}
+
+table.tabla1 {
+    border: red solid;
+}
+
+td.azul {
+    border: blue solid;
+}
+
+table.tabla3 {
+    font-size: 30px;
+    width: 100vh;
+    border: green thin;
+
+}
+
+td.verde {
+    border:  green double;
+}
+
